@@ -18,8 +18,8 @@ Bienvenue dans la documentation des standards de développement de l'organisatio
 
 ## 🚀 Création d'un nouveau dépôt GitHub à l'aide des modèles
 
-1. Créez un nouveau dépôt GitHub **privé** dans votre organisation
-	1a. Choisissez un modèle .gitignore en fonction du langage de programmation utilisé
+1. Créez un nouveau dépôt GitHub **privé** dans votre organisation  
+	1a. Choisissez un modèle .gitignore en fonction du langage de programmation utilisé (optionel)
 2. Clonez le dépôt localement
 3. Copiez les fichiers nécessaires depuis le dossier **/templates** de ce dépôt (README, CONTRIBUTING, .github, etc.)
 4. Adaptez le contenu selon les besoins du projet
