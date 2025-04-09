@@ -1,0 +1,12 @@
+# Exemple de fichier CODEOWNERS
+
+# Toutes les ressources du dépôt
+*       @admin-team
+
+# Dossiers spécifiques
+/scripts/        @data-team
+/docs/           @doc-maintainers
+
+# Fichiers spécifiques
+README.md        @admin-team
+requirements.txt @dev-leads

@@ -1,0 +1,12 @@
+# Example CODEOWNERS file
+
+# Entire repository
+*       @admin-team
+
+# Specific folders
+/scripts/        @data-team
+/docs/           @doc-maintainers
+
+# Specific files
+README.md        @admin-team
+requirements.txt @dev-leads

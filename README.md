@@ -1,31 +1,10 @@
-# Nomenclature-Repo-Git-INS
+# 🗂️ Standards et modèles / Standards & Templates
 
+Ce dépôt contient les standards organisationnels de notre organisation, incluant des conventions de nomenclature, des modèles de fichiers et des pratiques recommandées pour les dépôts GitHub.
 
+This repository contains the organization's internal GitHub standards, including naming conventions, templates, and good practices.
 
-**Nom repo**
-Recherche
-Programme_Federation_BreveDescription
-exemple:
-Synergique_VoileQC_AppVR
+## 📄 Accès rapide / Quick Access
 
-Services
-Utilité_Federation_BreveDescription
-exemple
-INS_BoxeCAN_Monitoring
-
-Federation : peut-être Multifédération ou ?
-
-**Description**
-Dans le read me, ajouter 1 phrase qui décrit plus en détail l'objectif du projet
-
-**Tags**
-Ajouter des tags qui précise l'utilité
-- Dashboard
-- Application
-- Application VR
-- etc.
-- PFE
-- Numéro projet de recherche
-
-**Statut**
-Assurer que le statut est en privé
+- FR [Documentation en français](./docs/fr/README.md)
+- EN [English documentation](./docs/en/README.md)
