@@ -1,7 +1,10 @@
 ---
-name: ✨ Feature Request
-description: Suggest a new idea or enhancement
-labels: [enhancement]
+name: "✨ Feature Request"
+about: To ask or propose a new feature
+title: ''
+labels: enhancement
+assignees: ''
+
 ---
 
 ### 💡 Requested Feature

@@ -1,7 +1,10 @@
 ---
-name: 🐛 Rapport de bogue
-description: Signaler un bogue ou une erreur dans le projet
-labels: [bug]
+name: "\U0001F41B Rapport de bogue"
+about: Pour signaler problèmes ou erreurs
+title: ''
+labels: bug
+assignees: ''
+
 ---
 
 ### 🐞 Description du bogue
