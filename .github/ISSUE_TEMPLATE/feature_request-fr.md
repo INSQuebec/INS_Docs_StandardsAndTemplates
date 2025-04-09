@@ -1,7 +1,10 @@
 ---
-name: ✨ Demande de fonctionnalité
-description: Proposer une idée ou une amélioration
-labels: [enhancement]
+name: "✨ Demande de fonctionnalité"
+about: Pour demander ou proposer une nouvelle fonctionnalité
+title: ''
+labels: enhancement
+assignees: ''
+
 ---
 
 ### 💡 Description de la fonctionnalité souhaitée
