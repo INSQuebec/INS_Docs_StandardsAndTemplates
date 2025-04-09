@@ -1,4 +1,4 @@
-# 📘 Documentation organisationnelle (FR)
+# 📘 Documentation organisationnelle INS Québec (FR)
 
 Bienvenue dans la documentation des standards de développement de l'organisation.
 
