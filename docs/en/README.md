@@ -1,4 +1,4 @@
-# 📘 Organization Documentation (EN)
+# 📘 INS Québec Standards and Templates (EN)
 
 Welcome to the documentation for our organization's development standards.
 
