@@ -8,7 +8,8 @@ Describe the changes introduced.
 - [ ] Documentation updated if needed
 
 ## 📎 Related Links
-Linked issue, ticket, discussion, or reference
+- Linked issue (ex. Fixes #123, Closes #456 or Resolves #789)
+- Ticket, discussion, or reference
 
 ## 🧠 Additional Notes
 Add anything useful for reviewers
