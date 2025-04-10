@@ -1,11 +1,3 @@
----
-name: 📦 Pull Request (EN)
-about: Use this template to describe changes in English
-title: ''
-labels: []
-assignees: []
----
-
 ## 📄 Description
 Describe the changes introduced.
 
