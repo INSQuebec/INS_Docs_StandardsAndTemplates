@@ -10,7 +10,7 @@ assignees: []
 Décrivez les changements apportés.
 
 ## ✅ Liste de vérification
-- [ ] Le code compile ou s’exécute correctement
+- [ ] Le code compile et s’exécute correctement
 - [ ] Les tests passent
 - [ ] Le style de code est respecté
 - [ ] La documentation est mise à jour (si nécessaire)
