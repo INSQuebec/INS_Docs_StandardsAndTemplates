@@ -21,7 +21,7 @@ Welcome to the documentation for our organization's development standards.
 1. Create a new **private** repository in INSQuebec organization  
 	1a. Choose a .gitignore template matching your programming language (optional)
 2. Clone it locally
-3. Copy over files from the **/templates** folder of this repo (ex: README-en.md) and files from the **.github/** folder
+3. Copy over files from the **/templates** folder of this repo (minimally the README-en.md) and files from the **.github/** folder (optional)
 4. Customize as needed for your project
 5. **Commit** your additions/changes and **Push** to GitHub
 
