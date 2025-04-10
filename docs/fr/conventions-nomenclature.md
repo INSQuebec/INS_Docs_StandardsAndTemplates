@@ -10,7 +10,7 @@ Pour les projets de recherche et stages, précisez le programme de financement e
 
 **Format recommandé :**
 ```
-ProgrammeSubvention_Organisation_BrèveDescription
+ProgrammeSubvention_OrganisationPartenaire_BrèveDescription
 ```
 
 **Exemples :**
