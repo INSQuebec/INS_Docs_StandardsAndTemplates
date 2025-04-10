@@ -1,7 +1,10 @@
 ---
-name: 🐛 Bug Report
-description: Report a bug or issue in the project
-labels: [bug]
+name: "\U0001F41B Bug Report"
+about: To signal problems or errors
+title: ''
+labels: bug
+assignees: ''
+
 ---
 
 ### 🐞 Bug Description
