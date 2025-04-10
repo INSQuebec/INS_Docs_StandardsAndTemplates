@@ -1,3 +1,4 @@
+📌 **Ce projet utilise les [Standards et Modèles](https://github.com/INSQuebec/INS_Docs_StandardsAndTemplates/blob/c4db766d6f57fdd02f3d187540111aa2ffa1ef69/docs/fr/README.md) de l'INS Québec**
 # 📘 Titre du projet
 
 Brève description du projet et de son objectif.
