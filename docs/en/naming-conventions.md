@@ -6,7 +6,7 @@ To ensure clarity, consistency, and discoverability of GitHub repositories acros
 
 ## 🧪 Research & Student Projects
 
-For research and student projects, indicate the funding program and the recipient organization.
+For research and student projects, indicate the funding program (plus the program number for PRIDI projects) and the recipient organization.
 
 **Recommended format:**
 ```
@@ -14,9 +14,9 @@ FundingProgram_Organization_ShortDescription
 ```
 
 **Examples:**
-- `PRIDI-00_BocciaCanada_MatchAnalytics`
-- `Technovate_TrampolineCanada_HumanPoseEstimation`
+- `PRIDI05_BocciaCanada_MatchAnalytics`
 - `Synergique_SailingQc_VRApp`
+- `Technovate_TrampolineCanada_HumanPoseEstimation`
 
 ---
 
