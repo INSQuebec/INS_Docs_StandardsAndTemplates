@@ -14,9 +14,9 @@ ProgrammeSubvention_OrganisationPartenaire_BrèveDescription
 ```
 
 **Exemples :**
-- `PRIDI-00_BocciaCanada_MatchAnalytics`
-- `Technovate_TrampolineCanada_EstimationPoseHumaine`
+- `PRIDI00_BocciaCanada_MatchAnalytics`
 - `Synergique_VoileQc_AppVR`
+- `Technovate_TrampolineCanada_EstimationPoseHumaine`
 
 ---
 
