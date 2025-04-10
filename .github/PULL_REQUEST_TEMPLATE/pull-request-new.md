@@ -7,7 +7,7 @@ assignees: []
 ---
 
 ## 📄 Description
-Describe the changes introduced.
+Describe the changes introduced by your PR
 
 ## ✅ Checklist
 - [ ] Code compiles or runs correctly
