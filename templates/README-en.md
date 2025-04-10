@@ -1,3 +1,5 @@
+📌 **This project follows [INS Québec Standards and Templates](https://github.com/INSQuebec/INS_Docs_StandardsAndTemplates/blob/c4db766d6f57fdd02f3d187540111aa2ffa1ef69/docs/en/README.md)**
+
 # 📘 Project Title
 
 Short description of the project and its purpose.
