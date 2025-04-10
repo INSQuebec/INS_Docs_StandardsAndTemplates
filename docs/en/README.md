@@ -18,7 +18,7 @@ Welcome to the documentation for our organization's development standards.
 
 ## 🚀 Creating a new GitHub repo using the 🧩Templates
 
-1. Create a new **private** repository in INSQuebec organization  
+1. Create a new **private** repository in INSQuebec organization, according to the naming conventions above  
 	1a. Choose a .gitignore template matching your programming language (optional)
 2. Clone it locally
 3. Copy over files from the **/templates** folder of this repo (minimally the README-en.md) and files from the **.github/** folder (optional)
