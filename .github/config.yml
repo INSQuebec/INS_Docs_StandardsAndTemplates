@@ -1,0 +1,3 @@
+pull_request_template:
+  - .github/PULL_REQUEST_TEMPLATE/pull-request-template-en.md
+  - .github/PULL_REQUEST_TEMPLATE/pull-request-template-fr.md
