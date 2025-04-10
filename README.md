@@ -9,4 +9,3 @@ This repository contains INS Québec's internal GitHub standards, including nami
 - FR [Documentation en français](./docs/fr/README.md)
 - EN [English documentation](./docs/en/README.md)
 
-Induce temp typo to test PR templates
