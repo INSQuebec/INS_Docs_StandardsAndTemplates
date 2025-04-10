@@ -8,7 +8,7 @@ Bienvenue dans la documentation des standards de développement de l'organisatio
 - [Conventions de nomenclature](./conventions-nomenclature.md)
 - [Stratégie de branches](./strategie-branches.md)
 - [Pratiques de sécurité](./pratiques-securite.md)
-- [Normes graphique](`../INSQuebec Normes graphiques 2024 1.pdf`)
+- [Normes graphique]("../INSQuebec Normes graphiques 2024 1.pdf")
 
 ## 🧩 Modèles
 
