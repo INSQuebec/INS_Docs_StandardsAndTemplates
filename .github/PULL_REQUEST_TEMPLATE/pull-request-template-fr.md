@@ -1,11 +1,3 @@
----
-name: 📦 Pull Request (FR)
-about: Utilisez ce modèle pour décrire vos changements en français
-title: ''
-labels: []
-assignees: []
----
-
 ## 📄 Description
 Décrivez les changements apportés.
 
