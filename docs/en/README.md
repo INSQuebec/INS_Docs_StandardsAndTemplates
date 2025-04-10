@@ -19,10 +19,31 @@ Welcome to the documentation for our organization's development standards.
 ## 🚀 Creating a new GitHub repo using the 🧩Templates
 
 1. Create a new **private** repository in INSQuebec organization, according to the naming conventions above  
-	1a. Choose a .gitignore template matching your programming language (optional)
+	1a. Choose a `.gitignore` template matching your programming language (optional)
 2. Clone it locally
-3. Copy over files from the **/templates** folder of this repo (minimally the README-en.md) and files from the **.github/** folder (optional)
-4. Customize as needed for your project
+   ```bash
+   git clone https://github.com/INSQuebec/repo-name.git
+   ```
+3. Download files from the `/templates` folder of this repo (minimally the `README-en.md`) and from the `.github/` folder (optional) and copy over to your new repo
+4. Customize the `README.md` and other files as needed for your project
 5. **Commit** your additions/changes and **Push** to GitHub
 
 💡 *You can also edit or create files directly via the GitHub web interface. However, cloning the repo locally is recommended when copying multiple files/folders like `.github/`.*
+
+## 🔁 Renaming an Existing Repository
+
+If your existing repository doesn’t follow the naming conventions, you can rename it and update the local remote origin:
+
+1. Go to your GitHub repo's **Settings**
+
+   ![[Screenshot of the GitHub interface for renaming a repo](https://docs.github.com/assets/images/help/repository/repo-settings-rename.png)](https://docs.github.com/assets/cb-28260/mw-1440/images/help/repository/repo-actions-settings.webp)
+
+2. Change the "Repository name" field
+3. Click **Rename**
+4. In your local clone, update the remote origin URL:
+
+```bash
+git remote set-url origin https://github.com/INSQuebec/new-repo-name.git
+git remote -v  # to verify
+```
+5. Complete steps 3 to 5 of **Creating a new GitHub repo** section (if needed)

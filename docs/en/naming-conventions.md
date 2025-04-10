@@ -45,7 +45,7 @@ INS_Type(optional)_ShortDescription
 
 **Examples:**
 - `INS_Software_ForcePlateAppPython`
-- `INS_Scripts_RScriptsSylvain`
+- `INS_RScriptsVariésSylvain`
 - `INS_Docs_StandardsAndTemplates`
 
 ---
