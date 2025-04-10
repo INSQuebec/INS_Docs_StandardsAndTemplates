@@ -6,11 +6,11 @@ Afin d’assurer la clarté, la cohérence et la découvrabilité des dépôts G
 
 ## 🧪 Recherche et stages
 
-Pour les projets de recherche et stages, précisez le programme de financement et l'organisation bénéficiaire.
+Pour les projets de recherche et stages, précisez le programme de financement (et le numéro de projet pour le PRIDI) et l'organisation bénéficiaire.
 
 **Format recommandé :**
 ```
-ProgrammeSubvention_OrganisationPartenaire_BrèveDescription
+ProgrammeSubvention_Organisation_BrèveDescription
 ```
 
 **Exemples :**
