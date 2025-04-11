@@ -3,6 +3,7 @@ name: "✨ Feature Request"
 about: To ask or propose a new feature
 title: ''
 labels: enhancement
+type: feature
 assignees: ''
 
 ---

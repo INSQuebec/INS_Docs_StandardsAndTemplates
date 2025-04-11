@@ -14,21 +14,22 @@ Welcome to the documentation for our organization's development standards.
 - [README Template](../../templates/README-en.md)
 - [CONTRIBUTING Template](../../templates/CONTRIBUTING-en.md)
 - [CODEOWNERS Example](../../templates/CODEOWNERS-en)
-- [Issue & PR Templates](../../.github/)
+- [Issue & PR Templates](../../templates/.github/)
 
 ## 🚀 Creating a new GitHub repo using the 🧩Templates
 
 1. Create a new **private** repository in INSQuebec organization, according to the naming conventions above  
-	1a. Choose a `.gitignore` template matching your programming language (optional)
+	- Choose a `.gitignore` template matching your programming language (optional)
 2. Clone it locally
    ```bash
    git clone https://github.com/INSQuebec/repo-name.git
    ```
-3. Download files from the `/templates` folder of this repo (minimally the `README-en.md`) and from the `.github/` folder (optional) and copy over to your new repo
-4. Customize the `README.md` and other files as needed for your project
+3. Download files from the `/templates` folder of this repo (minimally the `README-en.md`)
+	- You don't need to copy `.github/` folder as the Issue and PR templates are already applied at the organization level
+4. Customize the `README.md` as needed for your project (and other files if applicable)
 5. **Commit** your additions/changes and **Push** to GitHub
 
-💡 *You can also edit or create files directly via the GitHub web interface. However, cloning the repo locally is recommended when copying multiple files/folders like `.github/`.*
+💡 *You can also edit or create files directly via the GitHub web interface. However, cloning the repo locally is recommended when copying multiple files.*
 
 ## 🔁 Renaming an Existing Repository
 

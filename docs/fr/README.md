@@ -15,21 +15,22 @@ Bienvenue dans la documentation des standards de développement de l'organisatio
 - [Modèle de README](../../templates/README-fr.md)
 - [Modèle de CONTRIBUTING](../../templates/CONTRIBUTING-fr.md)
 - [Exemple de CODEOWNERS](../../templates/CODEOWNERS-fr)
-- [Modèles de PR et d'issues](../../.github/)
+- [Modèles de PR et d'issues](../../templates/.github/)
 
 ## 🚀 Création d'un nouveau dépôt GitHub à l'aide des 🧩 Modèles
 
 1. Créez un nouveau dépôt GitHub **privé** dans l'organisation GitHub INSQuebec en suivant les conventions de nomenclature ci-dessus  
-	1a. Choisissez un modèle `.gitignore` en fonction du langage de programmation utilisé (optionel)
+	- Choisissez un modèle `.gitignore` en fonction du langage de programmation utilisé (optionel)
 2. Clonez le dépôt localement
    ```bash
    git clone https://github.com/INSQuebec/nom-du-dépôt.git
    ```
-3. Téléchargez les fichiers nécessaires depuis le dossier `/templates` de ce dépôt (au minimum le README-fr.md) et le dossier `.github/` (optionnel) puis copiez dans votre dépôt
-4. Adaptez le contenu du `README.md` et autres fichiers selon les besoins du projet
+3. Téléchargez les fichiers nécessaires depuis le dossier `/templates` de ce dépôt (au minimum le README-fr.md)  
+	- Vous n'avez pas à copier le dossier `.github/` car les modèles de PR et d'issues qu'il contient sont déjà appliqués à l'ensemble de l'organisation
+4. Adaptez le contenu du `README.md` selon les besoins du projet (et autres fichiers si applicable)
 5. **Commit** vos additions/modifications et **Push** vers GitHub
 
-💡 *Il est également possible d'ajouter ou modifier les fichiers directement via l'interface web de GitHub. Toutefois, pour copier plusieurs fichiers/dossiers comme `.github/`, un clonage local est recommandé.*
+💡 *Il est également possible d'ajouter ou modifier les fichiers directement via l'interface web de GitHub. Toutefois, pour copier plusieurs fichiers, un clonage local est recommandé.*
 
 ## 🔁 Renommer un dépôt existant
 

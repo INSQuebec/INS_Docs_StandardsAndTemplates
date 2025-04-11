@@ -3,6 +3,7 @@ name: "✨ Demande de fonctionnalité"
 about: Pour demander ou proposer une nouvelle fonctionnalité
 title: ''
 labels: enhancement
+type: feature
 assignees: ''
 
 ---

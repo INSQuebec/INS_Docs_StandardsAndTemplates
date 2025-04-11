@@ -3,6 +3,7 @@ name: "\U0001F41B Rapport de bogue"
 about: Pour signaler problèmes ou erreurs
 title: ''
 labels: bug
+type: bug
 assignees: ''
 
 ---
